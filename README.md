@@ -4,7 +4,7 @@ Walk up to **Shreyi**, the bartender NPC, type (or speak) a question, and get a 
 
 ---
 
-## ✨ Key Features
+## Key Features
 | Feature | Description |
 |---------|-------------|
 | **Real-time AI dialogue** | Player messages are streamed to the ChatGPT API; replies are displayed bubble-by-bubble while the bartender “talks.” |
@@ -15,12 +15,12 @@ Walk up to **Shreyi**, the bartender NPC, type (or speak) a question, and get a 
 
 ---
 
-## 📸 Demo
+## Demo
 *(Short GIF or video link here, if you have one)*
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 | Area | Tool / Package |
 |------|----------------|
 | Game engine | **Unity 2021.3 LTS** (URP) |
@@ -33,7 +33,7 @@ Walk up to **Shreyi**, the bartender NPC, type (or speak) a question, and get a 
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 > **Prerequisites**
 > * Unity 2021.3 LTS (or newer)  
