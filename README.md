@@ -1,4 +1,3 @@
-# ChatGPT_Unity_Integration
 # VirtualBar – ChatGPT-Powered Bartender Simulation in Unity
 A proof-of-concept game that brings generative AI into a 3D bar scene.  
 Walk up to **Shreyi**, the bartender NPC, type (or speak) a question, and get a real-time response from OpenAI’s GPT-4o-mini model. The project shows how modern AI can replace rigid dialogue trees with unscripted, context-aware conversations.
