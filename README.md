@@ -16,7 +16,7 @@ Walk up to **Shreyi**, the bartender NPC, type (or speak) a question, and get a 
 ---
 
 ## Demo
-*(Short GIF or video link here, if you have one)*
+https://drive.google.com/file/d/12hjmk4qeeJTCe4a4699w6V0XANmFe63A/view?pli=1
 
 ---
 
